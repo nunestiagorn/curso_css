@@ -1,0 +1,25 @@
+/* seletor por tag*/
+h1 {
+    color: red;
+    font-size: 60px;
+}
+
+/* seletor por classe*/
+.paragrafo { 
+    color: green;
+    background-color: #000;
+}
+
+/* seletor por id*/
+#segundo-titulo{
+    color: purple;
+}
+
+p {
+    color:red;
+}
+
+.box .paragrafo-box {
+    color:blue
+}
+/* prioridade do seletor id, classe e tag */
