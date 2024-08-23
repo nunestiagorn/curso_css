@@ -1,0 +1,15 @@
+/* nome da cor */
+#primeiro-titulo {
+    color: magenta;
+}
+
+
+/* hexadecimal */
+.paragrafo {
+    color: #db0fb9
+}
+
+/* RGB - red green blue */
+#segundo-titulo {
+    color: rgb(123, 65, 22);
+}
